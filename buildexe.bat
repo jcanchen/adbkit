@@ -1,0 +1,1 @@
+venv\Scripts\pyinstaller.exe --clean -w -F --add-binary libusb-1.0.dll;. main_gui.py
