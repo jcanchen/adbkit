@@ -22,5 +22,5 @@ class Application(Frame):
 
 if __name__ == "__main__":
     app = Application()
-    app.master.title('AiiageTool')
+    app.master.title('ADBKit')
     app.mainloop()
